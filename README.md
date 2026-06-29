@@ -1,9 +1,51 @@
-<h1 align="center">Hi 👋, I'm 장규혁</h1>
-<h3 align="center">A passionate Cloud Enginnear developer from Korea</h3>
+# 장규혁 | Cloud & Container Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+인프라를 코드로 정의하고, 장애를 로그로 해결하는 엔지니어를 목표로 합니다.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Tech Stack
+
+**Cloud & Container**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**CI/CD & IaC**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![HCP Terraform](https://img.shields.io/badge/HCP_Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+**OS & Network**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| 자격증 | 발행처 | 취득일 |
+|---|---|---|
+| Terraform Associate 004 | HashiCorp | 2026.06 |
+| CKA | Linux Foundation | 2026.06 |
+| AWS SAA | Amazon Web Services | 2026.05 |
+| CCNA | Cisco | 2026.04 |
+| 리눅스마스터 2급 | 한국정보통신진흥협회 | 2026.04 |
+| 네트워크관리사 2급 | 한국정보통신자격협회 | 2026.02 |
+
+---
+
+## 📂 Projects
+
+| 프로젝트 | 기술스택 |
+|---|---|
+| [AWS 3-Tier Web Service 아키텍처 구축](https://github.com/gyu2001/aws-3tier-web-architecture) | AWS, VPC, EC2, ALB, Nginx, Tomcat, RDS |
+| [AWS ECS 기반 컨테이너 서비스 구축](https://github.com/gyu2001/aws-ecs-container-service) | Docker, ECR, ECS, Fargate, ALB |
+| [Kubernetes 클러스터 운영 및 관리](https://github.com/gyu2001/kubernetes-cluster-management) | kubeadm, kubectl, ETCD, Calico, CoreDNS |
+| [Terraform을 이용한 AWS 인프라 자동화](https://github.com/gyu2001/aws-infra-automation-terraform) | Terraform, HCP, GitHub Actions, AWS CLI |
+
+---
+
+## 📬 Contact
+
+- **Email** : kyuhyukss@naver.com
