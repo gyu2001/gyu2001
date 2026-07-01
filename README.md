@@ -38,11 +38,21 @@ kyuhyukss@naver.com · [포트폴리오 PDF](포트폴리오_PDF_링크)
 
 ---
 
-### Projects
+## Projects
 
 | 프로젝트 | 기간 | Tech Stack |
 |---|---|---|
-| [Terraform AWS 인프라 자동화](https://github.com/gyu2001/aws-infra-automation-terraform) | 2026.05 | Terraform, AWS CLI, Python |
-| [AWS ECS 컨테이너 서비스](https://github.com/gyu2001/aws-ecs-container-service) | 2026.05 | Docker, ECS(Fargate), ALB |
-| [Kubernetes 클러스터 운영](https://github.com/gyu2001/kubernetes-cluster-management) | 2026.05 | kubeadm, kubectl, Calico |
-| [AWS 3-Tier 웹 아키텍처](https://github.com/gyu2001/aws-3tier-web-architecture) | 2026.04 | VPC, ALB, Nginx, Tomcat |
+| [Terraform AWS 인프라 자동화](...) | 2026.05 | Terraform, AWS CLI, Python |
+| [AWS ECS 컨테이너 서비스](...) | 2026.05 | Docker, ECS(Fargate), ALB |
+| [Kubernetes 클러스터 운영](...) | 2026.05 | kubeadm, kubectl, Calico |
+| [AWS 3-Tier 웹 아키텍처](...) | 2026.04 | VPC, ALB, Nginx, Tomcat |
+
+<details>
+<summary>기초 인프라 실습 (Linux, Network)</summary>
+
+| 프로젝트 | 기간 | Tech Stack |
+|---|---|---|
+| [Rocky Linux LVM & Quota](...) | 2026.03 | LVM, Disk Quota |
+| [Cisco L2 Switching](...) | 2026.02 | VTP, EtherChannel, MST |
+
+</details>
