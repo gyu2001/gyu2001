@@ -1,51 +1,62 @@
-# 장규혁 | Cloud & Container Engineer
+# 장규혁 (Jang Gyuhyeok)
+### Cloud & Container Infrastructure Engineer
 
-인프라를 코드로 정의하고, 장애를 로그로 해결하는 엔지니어를 목표로 합니다.
+인프라가 만들어졌다는 것과 정상 작동한다는 것은 다르다고 생각합니다.
+그래서 구축한 인프라는 직접 배포하고, 장애 상황에서는 로그로 원인을 찾아 해결하는 것까지 확인합니다.
+
+📫 gyu2001@naver.com &nbsp;|&nbsp; [포트폴리오 PDF](포트폴리오_PDF_링크)
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Project
 
-**Cloud & Container**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### [Terraform을 이용한 AWS 인프라 자동화](https://github.com/gyu2001/aws-infra-automation-terraform)
 
-**Network**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+VPC부터 ALB, Auto Scaling, RDS까지 AWS 인프라 전체를 Terraform 코드로 재현하고, `terraform apply` 한 번으로 **9분 42초** 내 배포되는 것까지 실제로 검증했습니다. 배포 과정에서 RDS 비밀번호 평문 하드코딩을 발견해 변수로 분리했고, `terraform plan` 결과를 요약해주는 Python 스크립트도 작성했습니다.
 
-**Server & OS**
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat&logo=rockylinux&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+`Terraform` `AWS` `Python`
 
 ---
 
 ## 📜 Certifications
 
-| 자격증 | 발행처 | 취득일 |
+| 자격증 | 발급기관 | 취득일 |
 |---|---|---|
 | Terraform Associate 004 | HashiCorp | 2026.06 |
-| CKA | Linux Foundation | 2026.06 |
-| AWS SAA | Amazon Web Services | 2026.05 |
+| Certified Kubernetes Administrator (CKA) | Linux Foundation | 2026.06 |
+| AWS Solutions Architect Associate | Amazon Web Services | 2026.05 |
 | CCNA | Cisco | 2026.04 |
 | 리눅스마스터 2급 | 한국정보통신진흥협회 | 2026.04 |
 | 네트워크관리사 2급 | 한국정보통신자격협회 | 2026.02 |
 
 ---
 
-## 📂 Projects
+## 🛠 Tech Stack
 
-| 프로젝트 | 기술스택 |
-|---|---|
-| [AWS 3-Tier Web Service 아키텍처 구축](https://github.com/gyu2001/aws-3tier-web-architecture) | AWS, VPC, EC2, ALB, Nginx, Tomcat, RDS |
-| [AWS ECS 기반 컨테이너 서비스 구축](https://github.com/gyu2001/aws-ecs-container-service) | Docker, ECR, ECS, Fargate, ALB |
-| [Kubernetes 클러스터 운영 및 관리](https://github.com/gyu2001/kubernetes-cluster-management) | kubeadm, kubectl, ETCD, Calico, CoreDNS |
-| [Terraform을 이용한 AWS 인프라 자동화](https://github.com/gyu2001/aws-infra-automation-terraform) | Terraform, HCP, GitHub Actions, AWS CLI |
+**Cloud & IaC**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Container**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Network & OS**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 
 ---
 
-## 📬 Contact
+## 📂 Projects
 
-- **Email** : kyuhyukss@naver.com
+| 프로젝트 | 기간 | Tech Stack |
+|---|---|---|
+| [Terraform AWS 인프라 자동화](https://github.com/gyu2001/aws-infra-automation-terraform) | 2026.05 | Terraform, AWS CLI, Python |
+| [AWS ECS 컨테이너 서비스](https://github.com/gyu2001/aws-ecs-container-service) | 2026.05 | Docker, ECS(Fargate), ALB |
+| [Kubernetes 클러스터 운영](https://github.com/gyu2001/kubernetes-cluster-management) | 2026.05 | kubeadm, kubectl, Calico |
+| [AWS 3-Tier 웹 아키텍처](https://github.com/gyu2001/aws-3tier-web-architecture) | 2026.04 | VPC, ALB, Nginx, Tomcat |
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyu2001&show_icons=true&theme=default&hide_title=true)
