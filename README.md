@@ -12,6 +12,7 @@ kyuhyukss@naver.com · [포트폴리오 PDF](포트폴리오_PDF_링크)
 
 **Cloud & IaC**
 ![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-333333?style=flat-square)
 ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat-square)
 
 **Container**
@@ -42,6 +43,7 @@ kyuhyukss@naver.com · [포트폴리오 PDF](포트폴리오_PDF_링크)
 
 | 프로젝트 | 기간 | Tech Stack |
 |---|---|---|
+| [AWS × GCP 멀티클라우드](https://github.com/gyu2001/aws-gcp-multicloud) | 2026.06 | GCP, Cloud SQL, Cloud VPN, Terraform |
 | [Terraform AWS 인프라 자동화](https://github.com/gyu2001/aws-infra-automation-terraform) | 2026.06 | Terraform, AWS CLI, Python |
 | [AWS ECS 컨테이너 서비스](https://github.com/gyu2001/aws-ecs-container-service) | 2026.05 | Docker, ECS(Fargate), ALB |
 | [Kubernetes 클러스터 운영](https://github.com/gyu2001/kubernetes-cluster-management) | 2026.05 | kubeadm, kubectl, Calico |
