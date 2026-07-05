@@ -4,7 +4,7 @@
 인프라가 만들어졌다는 것과 정상 작동한다는 것은 다르다고 생각합니다.
 그래서 구축한 인프라는 직접 배포하고, 장애 상황에서는 로그로 원인을 찾아 해결하는 것까지 확인합니다.
 
-kyuhyukss@naver.com · [포트폴리오 PDF](포트폴리오_PDF_링크)
+kyuhyukss@naver.com · [포트폴리오](https://app.notion.com/p/394605c07817801aae5af0135ab59183?source=copy_link)
 
 ---
 
