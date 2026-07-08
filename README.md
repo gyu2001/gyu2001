@@ -18,6 +18,10 @@ kyuhyukss@naver.com · [포트폴리오](https://app.notion.com/p/394605c0781780
 **Container**
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat-square)
+**CI/CD & GitOps**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=flat-square)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-333333?style=flat-square)
+![Helm](https://img.shields.io/badge/Helm-333333?style=flat-square)
 
 **Network & OS**
 ![Cisco](https://img.shields.io/badge/Cisco-333333?style=flat-square)
