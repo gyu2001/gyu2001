@@ -24,6 +24,8 @@ kyuhyukss@naver.com · [포트폴리오](https://app.notion.com/p/394605c0781780
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-333333?style=flat-square)
 ![Helm](https://img.shields.io/badge/Helm-333333?style=flat-square)
 
+---
+
 **Network & OS**
 ![Cisco](https://img.shields.io/badge/Cisco-333333?style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=flat-square)
