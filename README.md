@@ -43,6 +43,7 @@ kyuhyukss@naver.com · [포트폴리오](https://app.notion.com/p/394605c0781780
 
 | 프로젝트 | 기간 | Tech Stack |
 |---|---|---|
+| [GitOps CI/CD 파이프라인](https://github.com/gyu2001/gitops-sample-manifest) | 2026.07 | GitHub Actions, ArgoCD, Helm, Kubernetes |
 | [AWS × GCP 멀티클라우드](https://github.com/gyu2001/aws-gcp-multicloud) | 2026.06 | GCP, Cloud SQL |
 | [Terraform AWS 인프라 자동화](https://github.com/gyu2001/aws-infra-automation-terraform) | 2026.06 | Terraform, AWS CLI, Python |
 | [AWS ECS 컨테이너 서비스](https://github.com/gyu2001/aws-ecs-container-service) | 2026.05 | Docker, ECS(Fargate), ALB |
